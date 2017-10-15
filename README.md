@@ -1,6 +1,16 @@
 # dca-prep-guide
 Docker Certification Associate preparation guide - a list of resources to help you prepare for a successful certification
 
+## Current status
+|Domain|Official Documentation|Third Party Resources|Play with Docker Examples|Ascii Cinema Examples|Preparation Hints|
+|------|:--------------------:|:-------------------:|:-----------------------:|:-------------------:|:---------------:|
+|1     |Work in Progress      |                     |                         |                     |                 |
+|2     |Work in Progress      |                     |                         |                     |                 |
+|3     |                      |                     |                         |                     |                 |
+|4     |                      |                     |                         |                     |                 |
+|5     |                      |                     |                         |                     |                 |
+|6     |                      |                     |                         |                     |                 |
+
 ## Content
 ### Domain 1: Orchestration (25% of exam)
 Content may include the following:
