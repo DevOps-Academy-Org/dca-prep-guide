@@ -1,7 +1,18 @@
 # dca-prep-guide
 Docker Certification Associate preparation guide - a list of resources to help you prepare for a successful certification
 
-## Domain 1: Orchestration (25% of exam)
+## Current status
+|Domain|Official Documentation|Third Party Resources|Play with Docker Examples|Ascii Cinema Examples|Preparation Hints|
+|------|:--------------------:|:-------------------:|:-----------------------:|:-------------------:|:---------------:|
+|1     |Work in Progress      |                     |                         |                     |                 |
+|2     |Work in Progress      |                     |                         |                     |                 |
+|3     |                      |                     |                         |                     |                 |
+|4     |                      |                     |                         |                     |                 |
+|5     |                      |                     |                         |                     |                 |
+|6     |                      |                     |                         |                     |                 |
+
+## Content
+### Domain 1: Orchestration (25% of exam)
 Content may include the following:
 - [Complete the setup of a swarm mode cluster with managers and worker nodes](domain1/Complete_the_setup_of_a_swarm_mode_cluster_with_managers_and_worker_nodes.md)
 - [State the differences between running a container vs running a service](domain1/State_the_differences_between_running_a_container_vs_running_a_service.md)
@@ -20,7 +31,7 @@ Content may include the following:
 - [Paraphrase the importance of quorum in a swarm cluster](domain1/Paraphrase_the_importance_of_quorum_in_a_swarm_cluster.md)
 - [Demonstrate the usage of templates with docker service create](domain1/Demonstrate_the_usage_of_templates_with_docker_service_create.md)
 
-## Domain 2: Image Creation, Management, and Registry (20% of exam)
+### Domain 2: Image Creation, Management, and Registry (20% of exam)
 Content may include the following:
 - [Describe Dockerfile options](domain2/Describe_Dockerfile_options.md)
 - [Show the main parts of a Dockerfile](domain2/Show_the_main_parts_of_a_Dockerfile.md)
@@ -59,7 +70,7 @@ Content may include the following:
 - [Complete configuration of backups for UCP and DTR](domain3/Complete_configuration_of_backups_for_UCP_and_DTR.md)
 - [Configure the Docker daemon to start on boot](domain3/Configure_the_Docker_daemon_to_start_on_boot.md)
 
-## Domain 4: Networking (15% of exam)
+### Domain 4: Networking (15% of exam)
 Content may include the following:
 - [Create a Docker bridge network for a developer to use for their containers](domain4/Create_a_Docker_bridge_network_for_a_developer_to_use_for_their_containers.md)
 - [Troubleshoot container and engine logs to understand a connectivity issue between containers](domain4/Troubleshoot_container_and_engine_logs_to_understand_a_connectivity_issue_between_containers.md)
@@ -73,7 +84,7 @@ Content may include the following:
 - [Deploy a service on a Docker overlay network](domain4/Deploy_a_service_on_a_Docker_overlay_network.md)
 - [Describe the difference between host and ingress port publishing mode](domain4/Describe_the_difference_between_host_and_ingress_port_publishing_mode.md)
 
-## Domain 5: Security (15% of exam)
+### Domain 5: Security (15% of exam)
 Content may include the following:
 - [Describe the process of signing an image](domain5/Describe_the_process_of_signing_an_image.md)
 - [Demonstrate that an image passes a security scan](domain5/Demonstrate_that_an_image_passes_a_security_scan.md)
@@ -88,7 +99,7 @@ Content may include the following:
 - [Describe the difference between UCP workers and managers](domain5/Describe_the_difference_between_UCP_workers_and_managers.md)
 - [Describe process to use external certificates with UCP and DTR](domain5/Describe_process_to_use_external_certificates_with_UCP_and_DTR.md)
 
-## Domain 6: Storage and Volumes (10% of exam)
+### Domain 6: Storage and Volumes (10% of exam)
 Content may include the following:
 - [State which graph driver should be used on which OS](domain6/State_which_graph_driver_should_be_used_on_which_OS.md)
 - [Demonstrate how to configure devicemapper](domain6/Demonstrate_how_to_configure_devicemapper.md)
@@ -97,4 +108,3 @@ Content may include the following:
 - [Describe how volumes are used with Docker for persistent storage](domain6/Describe_how_volumes_are_used_with_Docker_for_persistent_storage.md)
 - [Identify the steps you would take to clean up unused images on a filesystem also on DTR](domain6/Identify_the_steps_you_would_take_to_clean_up_unused_images_on_a_filesystem_also_on_DTR.md)
 - [Demonstrate how storage can be used across cluster nodes](domain6/Demonstrate_how_storage_can_be_used_across_cluster_nodes.md)
-
