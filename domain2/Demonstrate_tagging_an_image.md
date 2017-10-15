@@ -1,0 +1,1 @@
+# Demonstrate tagging an image

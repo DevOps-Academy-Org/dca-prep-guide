@@ -1,0 +1,1 @@
+# Enable Docker Content Trust
