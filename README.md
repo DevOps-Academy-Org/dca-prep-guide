@@ -22,7 +22,7 @@ Pull requests are very welcome!
 |1     |Done                  |Work in Progress     |                         |                     |                 |
 |2     |Done                  |Work in Progress     |                         |                     |                 |
 |3     |                      |                     |                         |                     |                 |
-|4     |                      |                     |                         |                     |                 |
+|4     |Done                  |                     |                         |                     |                 |
 |5     |                      |                     |                         |                     |                 |
 |6     |                      |                     |                         |                     |                 |
 
