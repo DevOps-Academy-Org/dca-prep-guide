@@ -1,5 +1,20 @@
-# dca-prep-guide
-Docker Certification Associate preparation guide - a list of resources to help you prepare for a successful certification
+# Docker Certified Associate Preparation Guide
+This guide is a collection of all the resources needed to prepare for the [Docker Certified Associate certification](https://success.docker.com/Certification).  
+It is the first official certification from the professional certificaton program for the Docker Enterprise Edition and was [announced in September 2017](https://blog.docker.com/tag/docker-certified-associate/).
+To pass the examination you need to answer 55 questions in 80 minutes.
+
+The [Docker Certified Associate Study Guide](https://prismic-io.s3.amazonaws.com/docker%2F8fb020bf-fe21-409c-ba02-7e0fd18276d5_dca+study+guide+v1.0.pdf) is the official source for all
+the knowledge domains that are covered by the certification questions.
+
+As the Docker Certified Associate Study Guide only gives a broad overview of the relevant areas, this guides tries to compile a comprehensive list of resources to help
+prepare for the certification. 
+
+For all certification topics it includes a list of relevant official Docker documentation, third party resources like blog posts, preparation hints and where
+available interactive [Play with Docker](http://training.play-with-docker.com/alacart/) examples or code samples.
+
+Please help us to make this the best source for preparing for the Docker Certified Associate certification by sharing the resources that helped you pass the examination.
+Pull requests are very welcome!
+
 
 ## Current status
 |Domain|Official Documentation|Third Party Resources|Play with Docker Examples|Ascii Cinema Examples|Preparation Hints|
