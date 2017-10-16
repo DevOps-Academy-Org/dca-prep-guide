@@ -21,7 +21,7 @@ Pull requests are very welcome!
 |------|:--------------------:|:-------------------:|:-----------------------:|:-------------------:|:---------------:|
 |1     |Done                  |Work in Progress     |                         |                     |                 |
 |2     |Done                  |Work in Progress     |                         |                     |                 |
-|3     |                      |                     |                         |                     |                 |
+|3     |Done                  |                     |                         |                     |                 |
 |4     |Done                  |                     |                         |                     |                 |
 |5     |                      |                     |                         |                     |                 |
 |6     |                      |                     |                         |                     |                 |
@@ -75,7 +75,7 @@ Content may include the following:
 - [Demonstrate the ability to upgrade the Docker engine](domain3/Demonstrate_the_ability_to_upgrade_the_Docker_engine.md)
 - [Complete setup of repo select a storage driver and complete installation of Docker engine on multiple platforms](domain3/Complete_setup_of_repo_select_a_storage_driver_and_complete_installation_of_Docker_engine_on_multiple_platforms.md)
 - [Configure logging drivers](domain3/Configure_logging_drivers.md)
-- [Setup swarm configure managers add nodes and setup backup schedule](domain3/Setup_swarm_configure_managers_add_nodes_and_setup_backup_schedule.md)
+- [Setup swarm, configure managers, add nodes, and setup backup schedule](domain3/Setup_swarm_configure_managers_add_nodes_and_setup_backup_schedule.md)
 - [Create and manager user and teams](domain3/Create_and_manager_user_and_teams.md)
 - [Interpret errors to troubleshoot installation issues without assistance](domain3/Interpret_errors_to_troubleshoot_installation_issues_without_assistance.md)
 - [Outline the sizing requirements prior to installation](domain3/Outline_the_sizing_requirements_prior_to_installation.md)
