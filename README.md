@@ -23,8 +23,8 @@ Pull requests are very welcome!
 |2     |Done                  |Work in Progress     |                         |                     |                 |
 |3     |Done                  |                     |                         |                     |                 |
 |4     |Done                  |                     |                         |                     |                 |
-|5     |                      |                     |                         |                     |                 |
-|6     |                      |                     |                         |                     |                 |
+|5     |Done                  |                     |                         |                     |                 |
+|6     |Almost Done           |                     |                         |                     |                 |
 
 ## Content
 ### Domain 1: Orchestration (25% of exam)
