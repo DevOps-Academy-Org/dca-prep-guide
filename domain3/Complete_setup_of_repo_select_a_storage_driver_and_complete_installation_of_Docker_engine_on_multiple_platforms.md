@@ -4,7 +4,6 @@
 Choosing and setting up the source for installing Docker EE - usually a repo - is described in the documentation for getting Docker EE.
 There you also find the exact commands that you need to follow to install the Docker EE engine.
 
-[Cent OS](https://docs.docker.com/engine/installation/linux/docker-ee/centos://docs.docker.com/engine/installation/linux/docker-ee/centos/)  
 [Oracle Linux](https://docs.docker.com/engine/installation/linux/docker-ee/oracle/)  
 [Red Hat Enterprise Linux](https://docs.docker.com/engine/installation/linux/docker-ee/rhel/)  
 [SuSe SLES](https://docs.docker.com/engine/installation/linux/docker-ee/suse/)  
