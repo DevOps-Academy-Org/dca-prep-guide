@@ -27,7 +27,7 @@ Pull requests are very welcome!
 |6     |Almost Done           |                     |                         |                     |                 |
 
 ## Content
-### [Domain 1: Orchestration (25% of exam)](Domain_1_Orchestration)
+### Domain 1: Orchestration (25% of exam)
 Content may include the following:
 - [Complete the setup of a swarm mode cluster with managers and worker nodes](Domain_1_Orchestration/Complete_the_setup_of_a_swarm_mode_cluster_with_managers_and_worker_nodes.md)
 - [State the differences between running a container vs running a service](Domain_1_Orchestration/State_the_differences_between_running_a_container_vs_running_a_service.md)
@@ -46,7 +46,7 @@ Content may include the following:
 - [Paraphrase the importance of quorum in a swarm cluster](Domain_1_Orchestration/Paraphrase_the_importance_of_quorum_in_a_swarm_cluster.md)
 - [Demonstrate the usage of templates with docker service create](Domain_1_Orchestration/Demonstrate_the_usage_of_templates_with_docker_service_create.md)
 
-### [Domain 2: Image Creation, Management, and Registry (20% of exam)](Domain_2_Image_Creation_Management_and_Registry)
+### Domain 2: Image Creation, Management, and Registry (20% of exam)
 Content may include the following:
 - [Describe Dockerfile options](Domain_2_Image_Creation_Management_and_Registry/Describe_Dockerfile_options.md)
 - [Show the main parts of a Dockerfile](Domain_2_Image_Creation_Management_and_Registry/Show_the_main_parts_of_a_Dockerfile.md)
@@ -70,7 +70,7 @@ Content may include the following:
 - [Describe how image deletion works](Domain_2_Image_Creation_Management_and_Registry/Describe_how_image_deletion_works.md)
 - [Delete an image from a registry](Domain_2_Image_Creation_Management_and_Registry/Delete_an_image_from_a_registry.md)
 
-### [Domain 3: Installation and Configuration (15% of exam)](Domain_3_Installation_and_Configuration)
+### Domain 3: Installation and Configuration (15% of exam)
 Content may include the following:
 - [Demonstrate the ability to upgrade the Docker engine](Domain_3_Installation_and_Configuration/Demonstrate_the_ability_to_upgrade_the_Docker_engine.md)
 - [Complete setup of repo select a storage driver and complete installation of Docker engine on multiple platforms](Domain_3_Installation_and_Configuration/Complete_setup_of_repo_select_a_storage_driver_and_complete_installation_of_Docker_engine_on_multiple_platforms.md)
@@ -85,7 +85,7 @@ Content may include the following:
 - [Complete configuration of backups for UCP and DTR](Domain_3_Installation_and_Configuration/Complete_configuration_of_backups_for_UCP_and_DTR.md)
 - [Configure the Docker daemon to start on boot](Domain_3_Installation_and_Configuration/Configure_the_Docker_daemon_to_start_on_boot.md)
 
-### [Domain 4: Networking (15% of exam)](Domain_4_Networking)
+### Domain 4: Networking (15% of exam)
 Content may include the following:
 - [Create a Docker bridge network for a developer to use for their containers](Domain_4_Networking/Create_a_Docker_bridge_network_for_a_developer_to_use_for_their_containers.md)
 - [Troubleshoot container and engine logs to understand a connectivity issue between containers](Domain_4_Networking/Troubleshoot_container_and_engine_logs_to_understand_a_connectivity_issue_between_containers.md)
@@ -99,7 +99,7 @@ Content may include the following:
 - [Deploy a service on a Docker overlay network](Domain_4_Networking/Deploy_a_service_on_a_Docker_overlay_network.md)
 - [Describe the difference between host and ingress port publishing mode](Domain_4_Networking/Describe_the_difference_between_host_and_ingress_port_publishing_mode.md)
 
-### [Domain 5: Security (15% of exam)](Domain_5_Security)
+### Domain 5: Security (15% of exam)
 Content may include the following:
 - [Describe the process of signing an image](Domain_5_Security/Describe_the_process_of_signing_an_image.md)
 - [Demonstrate that an image passes a security scan](Domain_5_Security/Demonstrate_that_an_image_passes_a_security_scan.md)
@@ -114,7 +114,7 @@ Content may include the following:
 - [Describe the difference between UCP workers and managers](Domain_5_Security/Describe_the_difference_between_UCP_workers_and_managers.md)
 - [Describe process to use external certificates with UCP and DTR](Domain_5_Security/Describe_process_to_use_external_certificates_with_UCP_and_DTR.md)
 
-### [Domain 6: Storage and Volumes (10% of exam)](Domain_6_Storage_and_Volumes)
+### Domain 6: Storage and Volumes (10% of exam)
 Content may include the following:
 - [State which graph driver should be used on which OS](Domain_6_Storage_and_Volumes/State_which_graph_driver_should_be_used_on_which_OS.md)
 - [Demonstrate how to configure devicemapper](Domain_6_Storage_and_Volumes/Demonstrate_how_to_configure_devicemapper.md)
