@@ -1,4 +1,4 @@
 # Illustrate running a replicated vs global service
 
 ## Official Docker Documentation
-[Difference between Services and Tasks](https://docs.docker.com/engine/swarm/key-concepts/#services-and-tasks)  
+[Replicated and Global Services](https://docs.docker.com/engine/swarm/how-swarm-mode-works/services/#replicated-and-global-services)  
