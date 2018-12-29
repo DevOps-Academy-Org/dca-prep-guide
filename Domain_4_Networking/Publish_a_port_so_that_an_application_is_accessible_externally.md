@@ -4,3 +4,5 @@ There are multiple ways to publish a port of an application. Basically, you can 
 
 ## Official Docker Documentation
 [Docker Documentation on EXPOSE](https://docs.docker.com/engine/reference/run/#expose-incoming-ports)  
+[Publish port in swarm mode](https://docs.docker.com/v17.09/engine/swarm/services/#publish-a-services-ports-directly-on-the-swarm-node)
+[Publish service ports externally to the swarm](https://docs.docker.com/engine/reference/commandline/service_create/#publish-service-ports-externally-to-the-swarm--p---publish)
