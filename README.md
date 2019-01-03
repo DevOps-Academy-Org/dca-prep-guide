@@ -94,7 +94,7 @@ Content may include the following:
 - [Describe the different types and use cases for the built-in network drivers](Domain_4_Networking/Describe_the_different_types_and_use_cases_for_the_built-in_network_drivers.md)
 - [Understand the Container Network Model and how it interfaces with the Docker engine and network and IPAM drivers](Domain_4_Networking/Understand_the_Container_Network_Model_and_how_it_interfaces_with_the_Docker_engine_and_network_and_IPAM_drivers.md)
 - [Configure Docker to use external DNS](Domain_4_Networking/Configure_Docker_to_use_external_DNS.md)
-- [Use Docker to load balance HTTP HTTPs traffic to an application](Domain_4_Networking/Use_Docker_to_load_balance_HTTP_HTTPs_traffic_to_an_application.md)
+- [Use Docker to load balance HTTP HTTPs traffic to an application (Configure L7 load balancing with Docker EE)](Domain_4_Networking/Use_Docker_to_load_balance_HTTP_HTTPs_traffic_to_an_application.md)
 - [Understand and describe the types of traffic that flow between the Docker engine registry and UCP controllers](Domain_4_Networking/Understand_and_describe_the_types_of_traffic_that_flow_between_the_Docker_engine_registry_and_UCP_controllers.md)
 - [Deploy a service on a Docker overlay network](Domain_4_Networking/Deploy_a_service_on_a_Docker_overlay_network.md)
 - [Describe the difference between host and ingress port publishing mode](Domain_4_Networking/Describe_the_difference_between_host_and_ingress_port_publishing_mode.md)
