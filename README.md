@@ -7,7 +7,7 @@ The [Docker Certified Associate Study Guide](https://prismic-io.s3.amazonaws.com
 the knowledge domains that are covered by the certification questions.
 
 As the Docker Certified Associate Study Guide only gives a broad overview of the relevant areas, this guides tries to compile a comprehensive list of resources to help
-prepare for the certification. 
+prepare for the certification.
 
 For all certification topics it includes a list of relevant official Docker documentation, third party resources like blog posts, preparation hints and where
 available interactive [Play with Docker](http://training.play-with-docker.com/alacart/) examples or code samples.
@@ -37,7 +37,7 @@ Content may include the following:
 - [Convert an application deployment into a stack file using a YAML compose file with docker stack deploy](Domain_1_Orchestration/Convert_an_application_deployment_into_a_stack_file_using_a_YAML_compose_file_with_docker_stack_deploy.md)
 - [Manipulate a running stack of services](Domain_1_Orchestration/Manipulate_a_running_stack_of_services.md)
 - [Increase number of replicas](Domain_1_Orchestration/Increase_number_of_replicas.md)
-- [Add networks publish ports](Domain_1_Orchestration/Add_networks_publish_ports.md)
+- [Add networks, publish ports](Domain_1_Orchestration/Add_networks_publish_ports.md)
 - [Mount volumes](Domain_1_Orchestration/Mount_volumes.md)
 - [Illustrate running a replicated vs global service](Domain_1_Orchestration/Illustrate_running_a_replicated_vs_global_service.md)
 - [Identify the steps needed to troubleshoot a service not deploying](Domain_1_Orchestration/Identify_the_steps_needed_to_troubleshoot_a_service_not_deploying.md)
