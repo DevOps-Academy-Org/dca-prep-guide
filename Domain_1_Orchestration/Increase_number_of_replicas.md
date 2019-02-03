@@ -4,3 +4,6 @@ Running Services on a Docker Swarm can be scaled in different ways: `docker serv
 
 ## Official Docker Documentation
 [Service Scale](https://docs.docker.com/engine/reference/commandline/service_scale/#examples)
+
+## Asciinema Examples
+[Increase number of replicas](https://asciinema.org/a/uwKaS8HHk35Aw4H8yCfD8XtG5)

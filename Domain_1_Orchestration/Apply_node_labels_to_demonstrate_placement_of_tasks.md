@@ -6,3 +6,6 @@
 
 ## Preparation Hints
 There exists the possibilty to add custom labels on nearly every Docker Object: [Manage labels on objects](https://docs.docker.com/engine/userguide/labels-custom-metadata/#manage-labels-on-objects)
+
+## Asciinema Examples
+[Apply node labels to demonstrate placement of tasks](https://asciinema.org/a/fweACvdGhMzUFCEnFIXune226)
