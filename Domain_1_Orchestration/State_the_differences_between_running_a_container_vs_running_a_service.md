@@ -6,3 +6,6 @@
 
 ## Third Party Resources
 [What is the difference between Docker Service and Docker Container?](https://stackoverflow.com/a/43408904)
+
+## Asciinema Examples
+[State the differences between running a container vs running a service](https://asciinema.org/a/TlMJZDNKZCeUYSfRbmyiKXK46)
