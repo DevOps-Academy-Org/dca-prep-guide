@@ -19,7 +19,7 @@ Pull requests are very welcome!
 ## Current status
 |Domain|Official Documentation|Third Party Resources|Play with Docker Examples|Ascii Cinema Examples|Preparation Hints|
 |------|:--------------------:|:-------------------:|:-----------------------:|:-------------------:|:---------------:|
-|1     |Done                  |Work in Progress     |                         |                     |                 |
+|1     |Done                  |Work in Progress     |                         |Done                 |                 |
 |2     |Done                  |Work in Progress     |                         |                     |                 |
 |3     |Done                  |                     |                         |                     |                 |
 |4     |Done                  |                     |                         |                     |                 |
