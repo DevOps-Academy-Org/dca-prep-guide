@@ -2,3 +2,4 @@
 
 ## Official Docker Documentation
 [Verify repository client with certificates](https://docs.docker.com/engine/security/certificates/)  
+[Configuring a registry](https://docs.docker.com/registry/configuration/#tls)  
